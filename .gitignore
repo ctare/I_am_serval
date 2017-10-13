@@ -1,0 +1,5 @@
+*.png
+*.jpg
+*.md
+!sab.png
+!readme.md
